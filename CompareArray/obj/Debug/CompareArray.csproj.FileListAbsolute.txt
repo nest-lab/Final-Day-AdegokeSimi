@@ -1,0 +1,6 @@
+c:\users\simidev\documents\visual studio 2017\Projects\CompareArray\CompareArray\bin\Debug\CompareArray.exe.config
+c:\users\simidev\documents\visual studio 2017\Projects\CompareArray\CompareArray\bin\Debug\CompareArray.exe
+c:\users\simidev\documents\visual studio 2017\Projects\CompareArray\CompareArray\bin\Debug\CompareArray.pdb
+c:\users\simidev\documents\visual studio 2017\Projects\CompareArray\CompareArray\obj\Debug\CompareArray.csprojResolveAssemblyReference.cache
+c:\users\simidev\documents\visual studio 2017\Projects\CompareArray\CompareArray\obj\Debug\CompareArray.exe
+c:\users\simidev\documents\visual studio 2017\Projects\CompareArray\CompareArray\obj\Debug\CompareArray.pdb

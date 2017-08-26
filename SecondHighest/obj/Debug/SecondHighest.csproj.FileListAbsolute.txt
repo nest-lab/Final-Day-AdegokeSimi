@@ -1,0 +1,6 @@
+c:\users\simidev\documents\visual studio 2017\Projects\SecondHighest\SecondHighest\bin\Debug\SecondHighest.exe.config
+c:\users\simidev\documents\visual studio 2017\Projects\SecondHighest\SecondHighest\bin\Debug\SecondHighest.exe
+c:\users\simidev\documents\visual studio 2017\Projects\SecondHighest\SecondHighest\bin\Debug\SecondHighest.pdb
+c:\users\simidev\documents\visual studio 2017\Projects\SecondHighest\SecondHighest\obj\Debug\SecondHighest.csprojResolveAssemblyReference.cache
+c:\users\simidev\documents\visual studio 2017\Projects\SecondHighest\SecondHighest\obj\Debug\SecondHighest.exe
+c:\users\simidev\documents\visual studio 2017\Projects\SecondHighest\SecondHighest\obj\Debug\SecondHighest.pdb
